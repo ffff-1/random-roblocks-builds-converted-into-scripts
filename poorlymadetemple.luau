@@ -3925,7 +3925,7 @@ t["Part_1"].Parent = t["Temple_Art_thing"]
 
 t["Mesh_1"] = Instance.new("SpecialMesh")
 t["Mesh_1"].Name = "Mesh"
-t["Mesh_1"].MeshhType = Enum.MeshType.FileMesh
+t["Mesh_1"].MeshType = Enum.MeshType.FileMesh
 t["Mesh_1"].Scale = Vector3.new(0.5, 0.0010000000474974513, 0.5)
 t["Mesh_1"].MeshId = "rbxassetid://16606212"
 t["Mesh_1"].Parent = t["Part_1"]
