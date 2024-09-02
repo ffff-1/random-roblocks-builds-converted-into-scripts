@@ -14134,7 +14134,7 @@ t["Brick_1"].CFrame = CFrame.new(66.3499984741211, 39.5, 1.8999958038330078) * C
 t["Brick_1"].Parent = t["Brick_Wall_Part_1"]
 
 t["Brick_1"] = Instance.new("Part")
-t[""Brick_1"].Name = "Brick"
+t["Brick_1"].Name = "Brick"
 t["Brick_1"].TopSurface = Enum.SurfaceType.Smooth
 t["Brick_1"].Color = Color3.new(0.6392157077789307, 0.29411765933036804, 0.29411765933036804)
 t["Brick_1"].Anchored = true
